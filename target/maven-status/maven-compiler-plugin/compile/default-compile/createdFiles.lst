@@ -1,0 +1,8 @@
+com\plakhotnyuk\adminpanel\dao\ProductDao.class
+com\plakhotnyuk\adminpanel\dao\ProductDAOImpl.class
+com\plakhotnyuk\adminpanel\servlet\findProductByIDServlet.class
+com\plakhotnyuk\adminpanel\servlet\AddProductServlet.class
+com\plakhotnyuk\Main.class
+com\plakhotnyuk\adminpanel\servlet\AllProductServlet.class
+com\plakhotnyuk\adminpanel\bean\Product.class
+com\plakhotnyuk\adminpanel\servlet\DeleteProductServlet.class
